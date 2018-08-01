@@ -5,7 +5,8 @@ xi2p (eXtended I2P daemon) is a full-featured C++ implementation of I2P client f
 
 How to use xi2p
 -------
-
+1. Download source code and build it.
+2. 
 
 
 License
