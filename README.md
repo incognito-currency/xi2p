@@ -3,6 +3,11 @@ xi2p
 
 xi2p (eXtended I2P daemon) is a full-featured C++ implementation of I2P client for Incognito currency.  
 
+How to use xi2p
+-------
+
+
+
 License
 -------
 
